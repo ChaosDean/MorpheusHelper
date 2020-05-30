@@ -1,4 +1,4 @@
-import asyncio
+import asy
 import string
 from asyncio import Lock
 from typing import Optional, Dict
